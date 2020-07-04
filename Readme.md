@@ -22,7 +22,7 @@ For furthur information on the SCHC protocol snd the LoRaWAN architecture this [
 
 
 
-##3. LoRaWAN Packets
+3. LoRaWAN Packets
 This section is aimed to give a brief on how the LoRaWAN packet is structured. It gives the skeletal information about the IPv6 header, SCHC packet ,the structure of the LoRaWAN header and payload,etc. IT is to be noted that this section does not potray a comprehensive explanation for the same. If one needs a comprehensive explanation the link above can be used.
 
 ###3.1 IPv6 Header format
